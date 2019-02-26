@@ -26,13 +26,13 @@ c = a;
 ### Your solution here:
 1.  What is `a`?
 ```
-a is 1
+a is bangos
 2.  What is `b`?
 ```
-b is bongos
+b is true
 3.  What is `c`?
 ```
-c is true
+c is 1
 
 ## Activity Concatenation
 Use the `+` operator to concatenate these strings together within a `console.log()`: "Please", "squeeze", "the", "cheese". Make sure there are spaces in-between each word.
